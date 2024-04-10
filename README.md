@@ -14,7 +14,7 @@ sfml-template/
 │
 ├── external/
 │ └── SFML-2.6.1/ (Place SFML library files here)
-├── inc/ (Header files for your project)
+├── include/ (Header files for your project)
 │ └── ...
 │
 ├── src/ (Source files for your project)
