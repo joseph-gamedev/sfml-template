@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.0)
 project(sfml-template)
 
 # Add your project's source files
-file(GLOB SOURCES "src/*.h" "src/*.cpp")
+file(GLOB SOURCES "include/*.h" "src/*.cpp")
 
 # Set the path to SFML
 set(SFML_STATIC_LIBRARIES TRUE)
