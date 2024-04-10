@@ -8,11 +8,14 @@ Before using this template, ensure you have the following installed:
 
 - CMake (version 3.0 or higher)
 
+```bash
 ## Project Structure
 sfml-template/
 │
 ├── external/
 │ └── SFML-2.6.1/ (Place SFML library files here)
+├── inc/ (Header files for your project)
+│ └── ...
 │
 ├── src/ (Source files for your project)
 │ ├── main.cpp
@@ -20,7 +23,7 @@ sfml-template/
 │
 ├── CMakeLists.txt (CMake configuration file)
 └── README.md (This file)
-
+```
 
 ## Usage
 
