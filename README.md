@@ -1,4 +1,4 @@
-# SFML CMake Template
+# SFML CMake Template for Windows
 
 This is a simple template for starting SFML projects using CMake. SFML (Simple and Fast Multimedia Library) provides a simple interface to various multimedia components like graphics, audio, and input. CMake is a cross-platform build system generator widely used for C++ projects.
 
